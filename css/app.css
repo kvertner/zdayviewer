@@ -62,11 +62,3 @@ a, .btn-link {
     .blazor-error-boundary::after {
         content: "An error has occurred."
     }
-
-.navbar {
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}

@@ -1,5 +1,5 @@
 {
-  "cacheBootResources": true,
+  "cacheBootResources": false,
   "config": [ ],
   "debugBuild": false,
   "entryAssembly": "ZDaySimulatorViewer",
@@ -7,9 +7,9 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Microsoft.AspNetCore.Components.dll": "sha256-rQ4quhiqVr9gHCcxNzzlqj+WV6LHMs6lrwhsSS8jlQk=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-A1ALLH7+TOZGlXdgOy2gYziK2f5CCczvJvRwqtKm2gA=",
-      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-qLRev3iQ8+ob2712HwRtFUJchqBHMqm+gr9bbFz7t14=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-7be+1y75A4U2WS3VFIRTLCJdHslzNbIvRgmR4W7kirQ=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-OC7FmUhOVgW4eEWvpQO9kizcPa8kwqwmc\/kQhvP2UAc=",
+      "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-OfawION\/UfFO75U4pMPDVhHt71EbKuF3qxDeiPFGqKo=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",
       "Microsoft.Extensions.Configuration.dll": "sha256-QPR+1IXNcA28b\/gXw3uZ8aRigHIZUJ1KWSH02kkCg7Q=",
       "Microsoft.Extensions.Configuration.Json.dll": "sha256-fF3xaP+hT6R3GYUctLIY1ixaXQ8mrHzwWHHf2dKfueU=",
@@ -19,8 +19,8 @@
       "Microsoft.Extensions.Logging.dll": "sha256-aj8Tk1BLrOE4y41oBvw\/VGDdmvACVEpGmiEDNrA7Hco=",
       "Microsoft.Extensions.Options.dll": "sha256-eZmnmowgP5leOxVRX6H1YZim4pQMB8QipOnBJ2aowWU=",
       "Microsoft.Extensions.Primitives.dll": "sha256-YColTWA58whC+8aBjv1O7HgsyYrbHTba601EkNDWAlo=",
-      "Microsoft.JSInterop.dll": "sha256-qAkdW9lpOxuToI9wOq2Liu3mqceR2fdv+cVOAwBcNqU=",
-      "Microsoft.JSInterop.WebAssembly.dll": "sha256-\/t0kGPO3Nt2TXo3rZz7S7wLoXxNakPKcEBdbVyyFlWo=",
+      "Microsoft.JSInterop.dll": "sha256-r5Gn6aCXz+MN7KVt2yRW0KtuccUjlKtCHIwi84Iivj0=",
+      "Microsoft.JSInterop.WebAssembly.dll": "sha256-lGzGmghWC2n88jfdnt\/ZlgOBbU9tjhYhdRO8P4zXTXo=",
       "System.Collections.Concurrent.dll": "sha256-o2LZHvoMdKmhQSY2H0K8\/qBqKP9qgCgnvKotNpStB6c=",
       "System.Collections.dll": "sha256-t6SPR3tXiaftF\/BnxQs\/dLsCj5oY\/8J0RZgKqRgNfqA=",
       "System.ComponentModel.dll": "sha256-0jLE+56BqHIbPwg1tZ6GO0m2oH7MgNGUm+Qc+oAjTcg=",
@@ -35,7 +35,7 @@
       "System.Runtime.dll": "sha256-rh0kq+YuQS2DRjFDk1a6djab5\/YLpSExJd86aweNmmI=",
       "System.Text.Encodings.Web.dll": "sha256-s\/oEg26\/wBNILW2bnAl9Qy7weHwi8bsYjClYUpDgmM0=",
       "System.Text.Json.dll": "sha256-NvD9E2xnnmlTBQ6d\/VvrvizpKUa7mcsbD7d4DLFo3ec=",
-      "ZDaySimulatorViewer.dll": "sha256-MWNWmW8jO6dMwjLuZ+ytXXjXN9hGCepvsvUWBJB+Eqo="
+      "ZDaySimulatorViewer.dll": "sha256-kk1ipojN5deRS+T3CAgaVjE7qjsEhI7uXdwOTsohqco="
     },
     "extensions": null,
     "lazyAssembly": null,
